@@ -1,0 +1,22 @@
+// Place all the styles related to the posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+*{
+	width: 300px;
+	text_align: center;
+
+	
+	}
+
+.posts_t{
+	table{
+	border-collapse: collapse;
+	background: red;
+
+	tr td{
+	padding: 10px;
+	vertical_align: top;
+	}
+	}
+	}
